@@ -1,2 +1,2 @@
-# mcMods
+# McMods
 For downloading MC mods
